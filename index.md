@@ -14,7 +14,7 @@
 ————————————————
 
 ### Research Interest
-#### Natural Language Processing, Machine Learning, Data Mining and Artificial Intelligence
+Natural Language Processing, Machine Learning, Data Mining and Artificial Intelligence
 
 ### Publications
-#### To be continued
+To be continued
