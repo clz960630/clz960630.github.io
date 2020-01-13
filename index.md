@@ -7,7 +7,7 @@
       <p><b>email：clz19960630@sjtu.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/20180123_084523.jpg" width="100%">      % 插入证件照代码
+      <img src="/20141214_152338.jpg" width="100%">
     </td>
   </tr>
 </table>
