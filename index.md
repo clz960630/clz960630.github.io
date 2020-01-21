@@ -21,7 +21,7 @@
 Lizhi Cheng received the BS degree from Department of Computer tecnnology and engineering, North East University, China, in 2018 and is currently a Ph.D.student in the Department of Computer Science and Engineering, Shanghai Jiao Tong University, China. His current research interests include Machine Learning, Text Mining and Natural Language Processing.
 
 ### Education
-2014-2018 Bachelor of Engineering in ComputerScience - North east University
+2014-2018 Bachelor of Engineering in ComputerScience - North East University
 
 2018-2020 Ph.D. Student in Computer Science - Shanghai JiaoTong University
 
