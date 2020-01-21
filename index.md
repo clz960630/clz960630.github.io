@@ -20,8 +20,10 @@ Lizhi Cheng received the BS degree from Department of Computer tecnnology and en
 
 ### Education
 2014-2018 Bachelor of Engineering in ComputerScience - North east University
+
 2018-2020 Ph.D. Student in Computer Science - Shanghai JiaoTong University
 
 ### ResearchInterests 
 Natural Language Processing(NLP) 
+
 DataMining/TextMining 
