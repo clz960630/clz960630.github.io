@@ -3,9 +3,9 @@
   <tr>
     <td width="75%">
       <h1>Lizhi Cheng</h1>
-      <p><b>address:Department of Computer Science Shanghai JiaoTong University No.800,Dongchuan Road Minhang District, Shanghai </b></p>
-      <p><b>date of birth：1996.6.30</b></p>
-      <p><b>email：clz19960630@sjtu.edu.cn</b></p>
+      <p><b>Address:Department of Computer Science Shanghai JiaoTong University No.800,Dongchuan Road Minhang District, Shanghai </b></p>
+      <p><b>Date of birth：1996.6.30</b></p>
+      <p><b>Email：clz19960630@sjtu.edu.cn</b></p>
       <p><b>Tel：(+86)18602413832 </b></p>
     </td>
     <td width="25%">
