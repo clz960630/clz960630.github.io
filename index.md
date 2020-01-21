@@ -3,10 +3,12 @@
   <tr>
     <td width="75%">
       <h1>Lizhi Cheng</h1>
+      <p><b>Nationality: People’s Republic of China</b></p>
       <p><b>Address:</b><br>Department of Computer Science <br>Shanghai JiaoTong University<br> No.800,Dongchuan Road Minhang District, Shanghai </p>
-      <p><b>Date of birth：1996.6.30</b></p>
-      <p><b>Email：clz19960630@sjtu.edu.cn</b></p>
-      <p><b>Tel：(+86)18602413832 </b></p>
+      
+      <p><b>Date of birth：</b> 1996.6.30</p>
+      <p><b>Email：</b> clz19960630@sjtu.edu.cn</p>
+      <p><b>Tel：</b>(+86)18602413832</p>
     </td>
     <td width="25%">
       <img src="/20141214_152338.jpg" width="100%">
